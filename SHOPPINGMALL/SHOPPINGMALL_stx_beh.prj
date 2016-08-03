@@ -1,0 +1,4 @@
+verilog isim_temp "../subtractor4bit/subtractor4bit.v"
+verilog isim_temp "../counter/counter.v"
+verilog isim_temp "SHOPPINGMALL.v"
+verilog isim_temp "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v"

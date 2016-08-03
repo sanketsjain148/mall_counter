@@ -1,0 +1,28 @@
+Command line:
+   SHOPPINGMALL_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56390
+
+Sat Nov 22 15:56:16 2014
+
+
+ Elaboration Time: 0.140401 sec
+
+ Current Memory Usage: 509.08 Meg
+
+ Total Signals          : 29
+ Total Nets             : 46
+ Total Signal Drivers   : 15
+ Total Blocks           : 6
+ Total Primitive Blocks : 4
+ Total Processes        : 20
+ Total Traceable Variables  : 29
+ Total Scalar Nets and Variables : 215
+
+ Total Simulation Time: 0.187201 sec
+
+ Current Memory Usage: 509.08 Meg
+
+Sat Nov 22 15:58:17 2014
+

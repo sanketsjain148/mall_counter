@@ -1,0 +1,5 @@
+verilog work "../subtractor4bit/subtractor4bit.v"
+verilog work "../counter/counter.v"
+verilog work "SHOPPINGMALL.v"
+verilog work "SHOPPINGMALL_tb.v"
+verilog work "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,3 @@
+verilog work "../FULL_SUBTRACTOR/FULL_SUBTRACTOR.v"
+verilog work "../counter/counter.v"
+verilog work "SHOPPINGMALL.v"
